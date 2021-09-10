@@ -1,5 +1,6 @@
 //Joanne Wang
 //Creates the card
+//adv software eng
 
 public class Card implements Comparable<Card>{
 
